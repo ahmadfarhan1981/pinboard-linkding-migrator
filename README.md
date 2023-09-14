@@ -11,8 +11,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -24,7 +22,7 @@
 <h3 align="center">Pinboard to Linkding migrator</h3>
 
   <p align="center">
-    The somewhat not necessary Pinboard to Linkding migrator 
+    The somewhat superfluous Pinboard to Linkding migrator 
     <br />
     <a href="https://github.com/ahmadfarhan1981/pinboard-linkding-migrator"><strong>Explore the docs »</strong></a>
     <br />
@@ -127,7 +125,7 @@ To get a local copy up and running follow these simple example steps.
 1. Clone the repo, then go into the directory that we cloned
    ```sh
    git clone https://github.com/ahmadfarhan1981/pinboard-linkding-migrator.git
-   cd blabla
+   cd pinboard-linkding-migrator
    ```
 2. Create a virtual environment for the script (optional, but recommended)
    ```sh
