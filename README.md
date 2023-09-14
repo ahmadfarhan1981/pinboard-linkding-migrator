@@ -83,14 +83,8 @@ The REST API have no way to search for bookmarks based on URL. When inserting a 
 
 ### **Create time for bookmarks will be at time of import**
 The create time of the inserted bookmarks will be the time of the import. Currently the workaround is: the actual create time of the bookmarks will be prepended to the description of the bookmarks.
-
-### Built With
-
-* python
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -99,7 +93,6 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
 * python
  
   You need python to run python scripts. Find the appropriate installation instruction for your platform. 
